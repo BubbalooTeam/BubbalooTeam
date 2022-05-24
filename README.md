@@ -1,1 +1,3 @@
-# WhiterKang-Network
+Hey, we are the Bubbaloo Team...
+
+#inital commit - 24/05/22 at 18:04PM
