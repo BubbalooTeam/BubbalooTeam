@@ -1,3 +1,3 @@
 Hey, we are the Bubbaloo Team...
 
-#inital commit - 24/05/22 at 18:04PM
+#initial commit - 24/05/22 at 18:05PM
