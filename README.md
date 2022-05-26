@@ -7,4 +7,4 @@
 
 <h2>#<b>📣 Bio</b>
 </h2>
-`Criaremos bots incríveis na BubbalooTeam, como muitos bots do Telegram.`
+<code>Criaremos bots incríveis na BubbalooTeam, como muitos bots do Telegram.</code>
