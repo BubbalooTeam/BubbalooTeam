@@ -1,4 +1,4 @@
-![reimagining some developments](https://telegra.ph/file/ac3dc6914087b05a35b4d.jpg)
+![reimagining some developments](https://telegra.ph/file/bc5c6b506a9c20204155f.png)
 
 At BubbalooTeam, we are reimagining some developments. We are always trying to contribute to the open source community.
 
