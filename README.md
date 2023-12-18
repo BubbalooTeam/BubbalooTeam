@@ -5,4 +5,5 @@ At BubbalooTeam, we are reimagining some developments. We are always trying to c
 ## What we do
 
 Some of our most notable projects are:
- - [WhiterRobot](https://github.com/BuubalooTeam/WhiterRobot): A multi-purpose tgBot that uses Hydrogram..
+ - [WhiterRobot](https://github.com/BuubalooTeam/WhiterRobot): A multi-purpose tgBot that uses Hydrogram.
+ - [WhiterRobot-Discord](https://github.com/BubbalooTeam/Discord-WhiterRobot): A multi-purpose DiscordBOT. (Under development...)
