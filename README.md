@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://telegra.ph/file/3e33c8c1d2ad9b037aa1c.png" width="408" height="230"/>
-</p>
-<h2 align="center">
-  <b># 🌐 BUBBALOO-TEAM</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23px">
-</h2>
+![reimagining some developments](https://telegra.ph/file/ac3dc6914087b05a35b4d.jpg)
 
-<h2>#<b>📣 Bio</b>
-</h2>
-<code>Criaremos bots incríveis na BubbalooTeam, como muitos bots do Telegram.</code>
+At BubbalooTeam, we are reimagining some developments. We are always trying to contribute to the open source community.
+
+## What we do
+
+Some of our most notable projects are:
+ - [WhiterRobot](https://github.com/BuubalooTeam/WhiterRobot): A multi-purpose tgBot that uses Hydrogram..
