@@ -2,6 +2,9 @@
 
 At BubbalooTeam, we are reimagining some developments. We are always trying to contribute to the open source community.
 
+## Contact with mail:
+bubbalooteam@proton.me
+
 ## What we do
 
 Some of our most notable projects are:
